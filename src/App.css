@@ -11,6 +11,8 @@
 
 .top{
   width: 412px;
+  position: sticky;
+  top: 0;
   height: 60px;
   background-color: #222327;
   color: white;
@@ -34,6 +36,7 @@
 
 .hr {
   /* margin-right: 10px; */
+  font-size: 25px;
 
   
 }
@@ -45,10 +48,30 @@
 
 .fa{
   font-size: 40px;
+  /* text-align: center; */
+  /* display: flex */
+;
+  /* flex-direction: column; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* border: 2px solid white; */
+  border-radius: 50px;
+  text-align: center;
+  background-color: #008979;
+  color: #bfedec;
+  width: 45px;
+  height: 45px;
+  text-align: center;
+  display: flex;
+
+  justify-content: center;
+  align-items: end;
 }
 .timing{
   color: white;
   margin-top: 50px;
+  display: flex;
+  justify-content: center;
 }
 
 .bubble{
@@ -78,12 +101,12 @@ gap: 10px;
 }
 .ki{
   display: flex;
-  align-items: initial;
+  align-items: center;
   gap: 4px;
 }
 
 .gtr{
-  font-size: 15px;
+  font-size: 16px;
 }
 .ki svg{
   color: green;
@@ -93,7 +116,7 @@ gap: 10px;
 .last{
   display: flex;
   gap: 10px;
-margin-top: 510px;
+margin-top: 330px;
 margin-left: 220px;
 color: white;
 }
@@ -127,4 +150,39 @@ color: white;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.ty{
+  font-size: 10px;
+}
+
+.gray{
+ 
+  border-radius: 10px;
+  background-color: #475061;
+  height: 70px;
+  margin-top: 20px;
+  
+}
+
+.wa{
+  height: 150px;
+  width: 200px;                                                   
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+
+/* .blue{
+  width: 50px;
+  height: 80px;
+  background-color: #475061  ;
+} */
+
+.max{
+  font-size: 10px;
+}
+
+.ra{
+  color: #adadad;
 }

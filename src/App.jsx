@@ -16,13 +16,11 @@ function App() {
               <FaArrowLeft />
             </div>
 
-            <div className="fa">
-              <FaRegUserCircle />
-            </div>
+            <div className="fa">s</div>
 
             <div className="hi">
               <div>SUDHANSHU DOGRA</div>
-              <div className="r">UPI ID:7508939594@axisb</div>
+              <div className="r">UPI ID:75089394@axisb</div>
             </div>
           </div>
 
@@ -31,9 +29,9 @@ function App() {
           </div>
         </div>
         <div className="timing">
-          <div>
-            -----------------------------------------6:19PM---------------------------------------
-          </div>
+          <div></div>
+          <div className="r ty">6:19 pm</div>
+          <div></div>
         </div>
         <div className="bubble">
           <div className="gt">
@@ -46,7 +44,32 @@ function App() {
               <div className="n ">
                 <IoCheckmarkDoneCircleOutline />
               </div>
-              <div className="">Paid 1:19 pm</div>
+              <div className="max ra">Paid 1:19 pm</div>
+            </div>
+            <div>
+              <IoIosArrowForward />
+            </div>
+          </div>
+
+          {/* <img src={image} alt="" /> */}
+        </div>
+
+        <div className="bubble wa">
+          <div className="gt">
+            <div className="gtr">You earned a scratch card!</div>
+            <div className="parent">
+              <div className="gray">
+                <div className="blue"></div>
+              </div>
+            </div>
+          </div>
+
+          <div className="gy">
+            <div className="ki">
+              {/* <div className="n ">
+                <IoCheckmarkDoneCircleOutline />
+              </div> */}
+              <div className="max ra">Tap to view</div>
             </div>
             <div>
               <IoIosArrowForward />
