@@ -30,7 +30,7 @@ function App() {
         </div>
         <div className="timing">
           <div></div>
-          <div className="r ty">6:19 pm</div>
+          <div className="ty">6:19 pm</div>
           <div></div>
         </div>
         <div className="bubble">
