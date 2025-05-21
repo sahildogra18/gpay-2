@@ -16,11 +16,11 @@ function App() {
               <FaArrowLeft />
             </div>
 
-            <div className="fa">s</div>
+            <div className="fa">v</div>
 
             <div className="hi">
               <div>Vivek Kumar</div>
-              <div className="r">UPI ID:v39278233@okhdfcbank</div>
+              <div className="r">ID:v39278233@okhdfcbank</div>
             </div>
           </div>
 
