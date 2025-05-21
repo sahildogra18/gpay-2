@@ -30,7 +30,7 @@ function App() {
         </div>
         <div className="timing">
           <div></div>
-          <div className="ty">2:25 pm</div>
+          <div className="ty">2:30 pm</div>
           <div></div>
         </div>
         <div className="bubble">
@@ -44,7 +44,7 @@ function App() {
               <div className="n ">
                 <IoCheckmarkDoneCircleOutline />
               </div>
-              <div className="max ra">Paid 1:19 pm</div>
+              <div className="max ra">Paid 2:30 pm</div>
             </div>
             <div>
               <IoIosArrowForward />
