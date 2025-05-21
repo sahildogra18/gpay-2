@@ -19,8 +19,8 @@ function App() {
             <div className="fa">s</div>
 
             <div className="hi">
-              <div>SUDHANSHU DOGRA</div>
-              <div className="r">UPI ID:75089394@axisb</div>
+              <div>Vivek Kumar</div>
+              <div className="r">UPI ID:v39278233@okhdfcbank</div>
             </div>
           </div>
 
@@ -30,12 +30,12 @@ function App() {
         </div>
         <div className="timing">
           <div></div>
-          <div className="ty">6:19 pm</div>
+          <div className="ty">2:25 pm</div>
           <div></div>
         </div>
         <div className="bubble">
           <div className="gt">
-            <div className="gtr">Payment to SUDHANSHU</div>
+            <div className="gtr">Payment to Vivek</div>
             <h1>₹1</h1>
           </div>
 
